@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Json App</string>
+    <string name="selecione_o_bot_o_para_acessar_os_dados_desejados_do_site_jsonplaceholder">Selecione o botão para acessar os dados desejados do site JSONPlaceholder:</string>
+    <string name="bem_vindo_ao_json_app">Bem vindo ao Json App</string>
+    <string name="posts">Posts</string>
+    <string name="comments">Comments</string>
+    <string name="photos">Photos</string>
+    <string name="todos">Todos</string>
+    <string name="albums">Albums</string>
+    <string name="sair">Sair</string>
+    <string name="json">Json</string>
+    <string name="voltar">Voltar</string>
+    <string name="this_is_body_text">This is body text</string>
+    <string name="title">Title</string>
+</resources>
